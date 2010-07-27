@@ -1,0 +1,12 @@
+=Welcome to my work shorcut
+
+==Alt+C
+launch or activate a cmd windown have title cmd_for_netbeans.exe
+
+===purpose
+to make netbeans have a command console to run some ruby on rails command.
+
+===note for use
+you need copy cmd.exe as cmd_for_netbeans.exe in c:\windows\system32\
+why need do this is ahk failed to set title for cmd.exe, for controller
+each specific window, I have to rename file to get a specific window title for ahk to controller
